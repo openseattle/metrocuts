@@ -1,0 +1,7492 @@
+[
+  {
+    "route": "1",
+    "state": "changed",
+    "period": "peak",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "1",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "1",
+    "state": "changed",
+    "period": "night",
+    "current": 45,
+    "proposed": 0
+  },
+  {
+    "route": "1",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 0
+  },
+  {
+    "route": "1",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 0
+  },
+  {
+    "route": "2",
+    "state": "changed",
+    "period": "peak",
+    "current": 12,
+    "proposed": 10
+  },
+  {
+    "route": "2",
+    "state": "changed",
+    "period": "midday",
+    "current": 15,
+    "proposed": 12
+  },
+  {
+    "route": "2",
+    "state": "changed",
+    "period": "night",
+    "current": 30,
+    "proposed": 45
+  },
+  {
+    "route": "2",
+    "state": "changed",
+    "period": "saturday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "2",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "3",
+    "state": "changed",
+    "period": "peak",
+    "current": 20,
+    "proposed": 10
+  },
+  {
+    "route": "3",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 15
+  },
+  {
+    "route": "3",
+    "state": "changed",
+    "period": "night",
+    "current": 30,
+    "proposed": 37
+  },
+  {
+    "route": "3",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 15
+  },
+  {
+    "route": "3",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "4",
+    "state": "deleted",
+    "period": "peak",
+    "current": 20,
+    "proposed": null
+  },
+  {
+    "route": "4",
+    "state": "deleted",
+    "period": "midday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "4",
+    "state": "deleted",
+    "period": "night",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "4",
+    "state": "deleted",
+    "period": "saturday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "4",
+    "state": "deleted",
+    "period": "sunday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "5",
+    "state": "changed",
+    "period": "peak",
+    "current": 15,
+    "proposed": 17
+  },
+  {
+    "route": "5",
+    "state": "changed",
+    "period": "midday",
+    "current": 15,
+    "proposed": 20
+  },
+  {
+    "route": "5",
+    "state": "changed",
+    "period": "night",
+    "current": 22,
+    "proposed": 25
+  },
+  {
+    "route": "5",
+    "state": "changed",
+    "period": "saturday",
+    "current": 15,
+    "proposed": 20
+  },
+  {
+    "route": "5",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "5EX",
+    "state": "deleted",
+    "period": "peak",
+    "current": 34,
+    "proposed": null
+  },
+  {
+    "route": "5EX",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "5EX",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "5EX",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "5EX",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "7",
+    "state": "changed",
+    "period": "peak",
+    "current": 10,
+    "proposed": 10
+  },
+  {
+    "route": "7",
+    "state": "changed",
+    "period": "midday",
+    "current": 10,
+    "proposed": 10
+  },
+  {
+    "route": "7",
+    "state": "changed",
+    "period": "night",
+    "current": 22,
+    "proposed": 37
+  },
+  {
+    "route": "7",
+    "state": "changed",
+    "period": "saturday",
+    "current": 12,
+    "proposed": 15
+  },
+  {
+    "route": "7",
+    "state": "changed",
+    "period": "sunday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "7EX",
+    "state": "deleted",
+    "period": "peak",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "7EX",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "7EX",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "7EX",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "7EX",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "8",
+    "state": "changed",
+    "period": "peak",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "8",
+    "state": "changed",
+    "period": "midday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "8",
+    "state": "changed",
+    "period": "night",
+    "current": 30,
+    "proposed": 45
+  },
+  {
+    "route": "8",
+    "state": "changed",
+    "period": "saturday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "8",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "9EX",
+    "state": "changed",
+    "period": "peak",
+    "current": 17,
+    "proposed": 0
+  },
+  {
+    "route": "9EX",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 0
+  },
+  {
+    "route": "9EX",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "9EX",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "9EX",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "10",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 10,
+    "proposed": 10
+  },
+  {
+    "route": "10",
+    "state": "unchanged",
+    "period": "midday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "10",
+    "state": "unchanged",
+    "period": "night",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "10",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "10",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "11",
+    "state": "changed",
+    "period": "peak",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "11",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "11",
+    "state": "changed",
+    "period": "night",
+    "current": 45,
+    "proposed": 45
+  },
+  {
+    "route": "11",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "11",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "12",
+    "state": "changed",
+    "period": "peak",
+    "current": 10,
+    "proposed": 0
+  },
+  {
+    "route": "12",
+    "state": "changed",
+    "period": "midday",
+    "current": 15,
+    "proposed": 0
+  },
+  {
+    "route": "12",
+    "state": "changed",
+    "period": "night",
+    "current": 45,
+    "proposed": 0
+  },
+  {
+    "route": "12",
+    "state": "changed",
+    "period": "saturday",
+    "current": 15,
+    "proposed": 0
+  },
+  {
+    "route": "12",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 0
+  },
+  {
+    "route": "13",
+    "state": "changed",
+    "period": "peak",
+    "current": 15,
+    "proposed": 10
+  },
+  {
+    "route": "13",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 15
+  },
+  {
+    "route": "13",
+    "state": "changed",
+    "period": "night",
+    "current": 30,
+    "proposed": 37
+  },
+  {
+    "route": "13",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 20
+  },
+  {
+    "route": "13",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "14",
+    "state": "changed",
+    "period": "peak",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "14",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "14",
+    "state": "changed",
+    "period": "night",
+    "current": 45,
+    "proposed": 0
+  },
+  {
+    "route": "14",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 0
+  },
+  {
+    "route": "14",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 0
+  },
+  {
+    "route": "15EX",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 40,
+    "proposed": 40
+  },
+  {
+    "route": "15EX",
+    "state": "unchanged",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "15EX",
+    "state": "unchanged",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "15EX",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "15EX",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "16",
+    "state": "changed",
+    "period": "peak",
+    "current": 20,
+    "proposed": 15
+  },
+  {
+    "route": "16",
+    "state": "changed",
+    "period": "midday",
+    "current": 20,
+    "proposed": 20
+  },
+  {
+    "route": "16",
+    "state": "changed",
+    "period": "night",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "16",
+    "state": "changed",
+    "period": "saturday",
+    "current": 20,
+    "proposed": 20
+  },
+  {
+    "route": "16",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "17EX",
+    "state": "changed",
+    "period": "peak",
+    "current": 40,
+    "proposed": 48
+  },
+  {
+    "route": "17EX",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "17EX",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "17EX",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "17EX",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "18EX",
+    "state": "changed",
+    "period": "peak",
+    "current": 34,
+    "proposed": 40
+  },
+  {
+    "route": "18EX",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "18EX",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "18EX",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "18EX",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "19",
+    "state": "deleted",
+    "period": "peak",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "19",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "19",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "19",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "19",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "21",
+    "state": "deleted",
+    "period": "peak",
+    "current": 15,
+    "proposed": null
+  },
+  {
+    "route": "21",
+    "state": "deleted",
+    "period": "midday",
+    "current": 15,
+    "proposed": null
+  },
+  {
+    "route": "21",
+    "state": "deleted",
+    "period": "night",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "21",
+    "state": "deleted",
+    "period": "saturday",
+    "current": 15,
+    "proposed": null
+  },
+  {
+    "route": "21",
+    "state": "deleted",
+    "period": "sunday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "21EX",
+    "state": "changed",
+    "period": "peak",
+    "current": 24,
+    "proposed": 26
+  },
+  {
+    "route": "21EX",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "21EX",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "21EX",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "21EX",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "22",
+    "state": "deleted",
+    "period": "peak",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "22",
+    "state": "deleted",
+    "period": "midday",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "22",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "22",
+    "state": "deleted",
+    "period": "saturday",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "22",
+    "state": "deleted",
+    "period": "sunday",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "24",
+    "state": "changed",
+    "period": "peak",
+    "current": 22,
+    "proposed": 20
+  },
+  {
+    "route": "24",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 0
+  },
+  {
+    "route": "24",
+    "state": "changed",
+    "period": "night",
+    "current": 30,
+    "proposed": 0
+  },
+  {
+    "route": "24",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 0
+  },
+  {
+    "route": "24",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 0
+  },
+  {
+    "route": "25",
+    "state": "deleted",
+    "period": "peak",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "25",
+    "state": "deleted",
+    "period": "midday",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "25",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "25",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "25",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "26",
+    "state": "deleted",
+    "period": "peak",
+    "current": 20,
+    "proposed": null
+  },
+  {
+    "route": "26",
+    "state": "deleted",
+    "period": "midday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "26",
+    "state": "deleted",
+    "period": "night",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "26",
+    "state": "deleted",
+    "period": "saturday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "26",
+    "state": "deleted",
+    "period": "sunday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "26EX",
+    "state": "changed",
+    "period": "peak",
+    "current": 40,
+    "proposed": 20
+  },
+  {
+    "route": "26EX",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": 30
+  },
+  {
+    "route": "26EX",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "26EX",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "26EX",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "27",
+    "state": "deleted",
+    "period": "peak",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "27",
+    "state": "deleted",
+    "period": "midday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "27",
+    "state": "deleted",
+    "period": "night",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "27",
+    "state": "deleted",
+    "period": "saturday",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "27",
+    "state": "deleted",
+    "period": "sunday",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "28",
+    "state": "deleted",
+    "period": "peak",
+    "current": 20,
+    "proposed": null
+  },
+  {
+    "route": "28",
+    "state": "deleted",
+    "period": "midday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "28",
+    "state": "deleted",
+    "period": "night",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "28",
+    "state": "deleted",
+    "period": "saturday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "28",
+    "state": "deleted",
+    "period": "sunday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "28EX",
+    "state": "changed",
+    "period": "peak",
+    "current": 26,
+    "proposed": 20
+  },
+  {
+    "route": "28EX",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": 30
+  },
+  {
+    "route": "28EX",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": 60
+  },
+  {
+    "route": "28EX",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": 30
+  },
+  {
+    "route": "28EX",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": 30
+  },
+  {
+    "route": "29",
+    "state": "changed",
+    "period": "peak",
+    "current": 20,
+    "proposed": 26
+  },
+  {
+    "route": "29",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "29",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "29",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "29",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "30",
+    "state": "deleted",
+    "period": "peak",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "30",
+    "state": "deleted",
+    "period": "midday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "30",
+    "state": "deleted",
+    "period": "night",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "30",
+    "state": "deleted",
+    "period": "saturday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "30",
+    "state": "deleted",
+    "period": "sunday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "31",
+    "state": "deleted",
+    "period": "peak",
+    "current": 27,
+    "proposed": null
+  },
+  {
+    "route": "31",
+    "state": "deleted",
+    "period": "midday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "31",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "31",
+    "state": "deleted",
+    "period": "saturday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "31",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "32",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 11
+  },
+  {
+    "route": "32",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "32",
+    "state": "changed",
+    "period": "night",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "32",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "32",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "33",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 20
+  },
+  {
+    "route": "33",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "33",
+    "state": "changed",
+    "period": "night",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "33",
+    "state": "changed",
+    "period": "saturday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "33",
+    "state": "changed",
+    "period": "sunday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "36",
+    "state": "changed",
+    "period": "peak",
+    "current": 7,
+    "proposed": 10
+  },
+  {
+    "route": "36",
+    "state": "changed",
+    "period": "midday",
+    "current": 10,
+    "proposed": 15
+  },
+  {
+    "route": "36",
+    "state": "changed",
+    "period": "night",
+    "current": 22,
+    "proposed": 25
+  },
+  {
+    "route": "36",
+    "state": "changed",
+    "period": "saturday",
+    "current": 10,
+    "proposed": 15
+  },
+  {
+    "route": "36",
+    "state": "changed",
+    "period": "sunday",
+    "current": 15,
+    "proposed": 20
+  },
+  {
+    "route": "37",
+    "state": "deleted",
+    "period": "peak",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "37",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "37",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "37",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "37",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "40",
+    "state": "changed",
+    "period": "peak",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "40",
+    "state": "changed",
+    "period": "midday",
+    "current": 15,
+    "proposed": 20
+  },
+  {
+    "route": "40",
+    "state": "changed",
+    "period": "night",
+    "current": 45,
+    "proposed": 45
+  },
+  {
+    "route": "40",
+    "state": "changed",
+    "period": "saturday",
+    "current": 15,
+    "proposed": 20
+  },
+  {
+    "route": "40",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "41",
+    "state": "changed",
+    "period": "peak",
+    "current": 5,
+    "proposed": 5
+  },
+  {
+    "route": "41",
+    "state": "changed",
+    "period": "midday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "41",
+    "state": "changed",
+    "period": "night",
+    "current": 45,
+    "proposed": 45
+  },
+  {
+    "route": "41",
+    "state": "changed",
+    "period": "saturday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "41",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "43",
+    "state": "changed",
+    "period": "peak",
+    "current": 12,
+    "proposed": 12
+  },
+  {
+    "route": "43",
+    "state": "changed",
+    "period": "midday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "43",
+    "state": "changed",
+    "period": "night",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "43",
+    "state": "changed",
+    "period": "saturday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "43",
+    "state": "changed",
+    "period": "sunday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "44",
+    "state": "changed",
+    "period": "peak",
+    "current": 11,
+    "proposed": 11
+  },
+  {
+    "route": "44",
+    "state": "changed",
+    "period": "midday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "44",
+    "state": "changed",
+    "period": "night",
+    "current": 22,
+    "proposed": 22
+  },
+  {
+    "route": "44",
+    "state": "changed",
+    "period": "saturday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "44",
+    "state": "changed",
+    "period": "sunday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "47",
+    "state": "deleted",
+    "period": "peak",
+    "current": 20,
+    "proposed": null
+  },
+  {
+    "route": "47",
+    "state": "deleted",
+    "period": "midday",
+    "current": 35,
+    "proposed": null
+  },
+  {
+    "route": "47",
+    "state": "deleted",
+    "period": "night",
+    "current": 35,
+    "proposed": null
+  },
+  {
+    "route": "47",
+    "state": "deleted",
+    "period": "saturday",
+    "current": 35,
+    "proposed": null
+  },
+  {
+    "route": "47",
+    "state": "deleted",
+    "period": "sunday",
+    "current": 35,
+    "proposed": null
+  },
+  {
+    "route": "48",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 10,
+    "proposed": 10
+  },
+  {
+    "route": "48",
+    "state": "unchanged",
+    "period": "midday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "48",
+    "state": "unchanged",
+    "period": "night",
+    "current": 22,
+    "proposed": 22
+  },
+  {
+    "route": "48",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "48",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "48EX",
+    "state": "deleted",
+    "period": "peak",
+    "current": 120,
+    "proposed": null
+  },
+  {
+    "route": "48EX",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "48EX",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "48EX",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "48EX",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "49",
+    "state": "changed",
+    "period": "peak",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "49",
+    "state": "changed",
+    "period": "midday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "49",
+    "state": "changed",
+    "period": "night",
+    "current": 22,
+    "proposed": 22
+  },
+  {
+    "route": "49",
+    "state": "changed",
+    "period": "saturday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "49",
+    "state": "changed",
+    "period": "sunday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "50",
+    "state": "changed",
+    "period": "peak",
+    "current": 20,
+    "proposed": 20
+  },
+  {
+    "route": "50",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "50",
+    "state": "changed",
+    "period": "night",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "50",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "50",
+    "state": "changed",
+    "period": "sunday",
+    "current": 60,
+    "proposed": 30
+  },
+  {
+    "route": "55",
+    "state": "changed",
+    "period": "peak",
+    "current": 34,
+    "proposed": 48
+  },
+  {
+    "route": "55",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "55",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "55",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "55",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "56EX",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 34
+  },
+  {
+    "route": "56EX",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "56EX",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "56EX",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "56EX",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "57",
+    "state": "deleted",
+    "period": "peak",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "57",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "57",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "57",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "57",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "60",
+    "state": "changed",
+    "period": "peak",
+    "current": 20,
+    "proposed": 30
+  },
+  {
+    "route": "60",
+    "state": "changed",
+    "period": "midday",
+    "current": 20,
+    "proposed": 30
+  },
+  {
+    "route": "60",
+    "state": "changed",
+    "period": "night",
+    "current": 45,
+    "proposed": 60
+  },
+  {
+    "route": "60",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "60",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "61",
+    "state": "deleted",
+    "period": "peak",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "61",
+    "state": "deleted",
+    "period": "midday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "61",
+    "state": "deleted",
+    "period": "night",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "61",
+    "state": "deleted",
+    "period": "saturday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "61",
+    "state": "deleted",
+    "period": "sunday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "62",
+    "state": "deleted",
+    "period": "peak",
+    "current": 34,
+    "proposed": null
+  },
+  {
+    "route": "62",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "62",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "62",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "62",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "64EX",
+    "state": "changed",
+    "period": "peak",
+    "current": 34,
+    "proposed": 48
+  },
+  {
+    "route": "64EX",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "64EX",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "64EX",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "64EX",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "65",
+    "state": "changed",
+    "period": "peak",
+    "current": 12,
+    "proposed": 12
+  },
+  {
+    "route": "65",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "65",
+    "state": "changed",
+    "period": "night",
+    "current": 45,
+    "proposed": 45
+  },
+  {
+    "route": "65",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "65",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "66EX",
+    "state": "deleted",
+    "period": "peak",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "66EX",
+    "state": "deleted",
+    "period": "midday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "66EX",
+    "state": "deleted",
+    "period": "night",
+    "current": 45,
+    "proposed": null
+  },
+  {
+    "route": "66EX",
+    "state": "deleted",
+    "period": "saturday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "66EX",
+    "state": "deleted",
+    "period": "sunday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "67",
+    "state": "deleted",
+    "period": "peak",
+    "current": 15,
+    "proposed": null
+  },
+  {
+    "route": "67",
+    "state": "deleted",
+    "period": "midday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "67",
+    "state": "deleted",
+    "period": "night",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "67",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "67",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "68",
+    "state": "deleted",
+    "period": "peak",
+    "current": 22,
+    "proposed": null
+  },
+  {
+    "route": "68",
+    "state": "deleted",
+    "period": "midday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "68",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "68",
+    "state": "deleted",
+    "period": "saturday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "68",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "70",
+    "state": "changed",
+    "period": "peak",
+    "current": 12,
+    "proposed": 10
+  },
+  {
+    "route": "70",
+    "state": "changed",
+    "period": "midday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "70",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "70",
+    "state": "changed",
+    "period": "saturday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "70",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": 20
+  },
+  {
+    "route": "71",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 60
+  },
+  {
+    "route": "71",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 60
+  },
+  {
+    "route": "71",
+    "state": "changed",
+    "period": "night",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "71",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 0
+  },
+  {
+    "route": "71",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 0
+  },
+  {
+    "route": "72",
+    "state": "deleted",
+    "period": "peak",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "72",
+    "state": "deleted",
+    "period": "midday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "72",
+    "state": "deleted",
+    "period": "night",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "72",
+    "state": "deleted",
+    "period": "saturday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "72",
+    "state": "deleted",
+    "period": "sunday",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "73",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 8
+  },
+  {
+    "route": "73",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 8
+  },
+  {
+    "route": "73",
+    "state": "changed",
+    "period": "night",
+    "current": 60,
+    "proposed": 22
+  },
+  {
+    "route": "73",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 10
+  },
+  {
+    "route": "73",
+    "state": "changed",
+    "period": "sunday",
+    "current": 60,
+    "proposed": 12
+  },
+  {
+    "route": "74EX",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "74EX",
+    "state": "unchanged",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "74EX",
+    "state": "unchanged",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "74EX",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "74EX",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "75",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 13,
+    "proposed": 13
+  },
+  {
+    "route": "75",
+    "state": "unchanged",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "75",
+    "state": "unchanged",
+    "period": "night",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "75",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "75",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "76",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "76",
+    "state": "unchanged",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "76",
+    "state": "unchanged",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "76",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "76",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "77",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "77",
+    "state": "unchanged",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "77",
+    "state": "unchanged",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "77",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "77",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "82",
+    "state": "unchanged",
+    "period": "peak",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "82",
+    "state": "unchanged",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "82",
+    "state": "unchanged",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "82",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "82",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "83",
+    "state": "unchanged",
+    "period": "peak",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "83",
+    "state": "unchanged",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "83",
+    "state": "unchanged",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "83",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "83",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "84",
+    "state": "unchanged",
+    "period": "peak",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "84",
+    "state": "unchanged",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "84",
+    "state": "unchanged",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "84",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "84",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "98",
+    "state": "changed",
+    "period": "peak",
+    "current": 12,
+    "proposed": 12
+  },
+  {
+    "route": "98",
+    "state": "changed",
+    "period": "midday",
+    "current": 15,
+    "proposed": 30
+  },
+  {
+    "route": "98",
+    "state": "changed",
+    "period": "night",
+    "current": 15,
+    "proposed": 0
+  },
+  {
+    "route": "98",
+    "state": "changed",
+    "period": "saturday",
+    "current": 15,
+    "proposed": 30
+  },
+  {
+    "route": "98",
+    "state": "changed",
+    "period": "sunday",
+    "current": 15,
+    "proposed": 30
+  },
+  {
+    "route": "99",
+    "state": "deleted",
+    "period": "peak",
+    "current": 26,
+    "proposed": null
+  },
+  {
+    "route": "99",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "99",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "99",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "99",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "101",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "101",
+    "state": "unchanged",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "101",
+    "state": "unchanged",
+    "period": "night",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "101",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "101",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "102",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 40,
+    "proposed": 40
+  },
+  {
+    "route": "102",
+    "state": "unchanged",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "102",
+    "state": "unchanged",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "102",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "102",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "105",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "105",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "105",
+    "state": "changed",
+    "period": "night",
+    "current": 45,
+    "proposed": 30
+  },
+  {
+    "route": "105",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "105",
+    "state": "changed",
+    "period": "sunday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "106",
+    "state": "changed",
+    "period": "peak",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "106",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 15
+  },
+  {
+    "route": "106",
+    "state": "changed",
+    "period": "night",
+    "current": 45,
+    "proposed": 45
+  },
+  {
+    "route": "106",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "106",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "107",
+    "state": "changed",
+    "period": "peak",
+    "current": 22,
+    "proposed": 30
+  },
+  {
+    "route": "107",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "107",
+    "state": "changed",
+    "period": "night",
+    "current": 45,
+    "proposed": 45
+  },
+  {
+    "route": "107",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "107",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "110",
+    "state": "unchanged",
+    "period": "peak",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "110",
+    "state": "unchanged",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "110",
+    "state": "unchanged",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "110",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "110",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "111",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 34
+  },
+  {
+    "route": "111",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "111",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "111",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "111",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "113",
+    "state": "deleted",
+    "period": "peak",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "113",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "113",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "113",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "113",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "114",
+    "state": "changed",
+    "period": "peak",
+    "current": 60,
+    "proposed": 80
+  },
+  {
+    "route": "114",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "114",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "114",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "114",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "116EX",
+    "state": "changed",
+    "period": "peak",
+    "current": 26,
+    "proposed": 40
+  },
+  {
+    "route": "116EX",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "116EX",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "116EX",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "116EX",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "118",
+    "state": "changed",
+    "period": "peak",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "118",
+    "state": "changed",
+    "period": "midday",
+    "current": 120,
+    "proposed": 120
+  },
+  {
+    "route": "118",
+    "state": "changed",
+    "period": "night",
+    "current": 120,
+    "proposed": 120
+  },
+  {
+    "route": "118",
+    "state": "changed",
+    "period": "saturday",
+    "current": 120,
+    "proposed": 120
+  },
+  {
+    "route": "118",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "118EX",
+    "state": "changed",
+    "period": "peak",
+    "current": 120,
+    "proposed": 240
+  },
+  {
+    "route": "118EX",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "118EX",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "118EX",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "118EX",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "119",
+    "state": "changed",
+    "period": "peak",
+    "current": 120,
+    "proposed": 120
+  },
+  {
+    "route": "119",
+    "state": "changed",
+    "period": "midday",
+    "current": 240,
+    "proposed": 240
+  },
+  {
+    "route": "119",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "119",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "119",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "119EX",
+    "state": "changed",
+    "period": "peak",
+    "current": 240,
+    "proposed": 240
+  },
+  {
+    "route": "119EX",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "119EX",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "119EX",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "119EX",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "120",
+    "state": "changed",
+    "period": "peak",
+    "current": 8,
+    "proposed": 10
+  },
+  {
+    "route": "120",
+    "state": "changed",
+    "period": "midday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "120",
+    "state": "changed",
+    "period": "night",
+    "current": 45,
+    "proposed": 45
+  },
+  {
+    "route": "120",
+    "state": "changed",
+    "period": "saturday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "120",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "121",
+    "state": "changed",
+    "period": "peak",
+    "current": 14,
+    "proposed": 40
+  },
+  {
+    "route": "121",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "121",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "121",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "121",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "122",
+    "state": "changed",
+    "period": "peak",
+    "current": 34,
+    "proposed": 48
+  },
+  {
+    "route": "122",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "122",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "122",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "122",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "123",
+    "state": "changed",
+    "period": "peak",
+    "current": 60,
+    "proposed": 80
+  },
+  {
+    "route": "123",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "123",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "123",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "123",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "124",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "124",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "124",
+    "state": "changed",
+    "period": "night",
+    "current": 45,
+    "proposed": 45
+  },
+  {
+    "route": "124",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "124",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "125",
+    "state": "changed",
+    "period": "peak",
+    "current": 20,
+    "proposed": 20
+  },
+  {
+    "route": "125",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 0
+  },
+  {
+    "route": "125",
+    "state": "changed",
+    "period": "night",
+    "current": 45,
+    "proposed": 0
+  },
+  {
+    "route": "125",
+    "state": "changed",
+    "period": "saturday",
+    "current": 45,
+    "proposed": 0
+  },
+  {
+    "route": "125",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": 0
+  },
+  {
+    "route": "128",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "128",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "128",
+    "state": "changed",
+    "period": "night",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "128",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "128",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "131",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "131",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 60
+  },
+  {
+    "route": "131",
+    "state": "changed",
+    "period": "night",
+    "current": 45,
+    "proposed": 60
+  },
+  {
+    "route": "131",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 60
+  },
+  {
+    "route": "131",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 60
+  },
+  {
+    "route": "132",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "132",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 60
+  },
+  {
+    "route": "132",
+    "state": "changed",
+    "period": "night",
+    "current": 45,
+    "proposed": 60
+  },
+  {
+    "route": "132",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 60
+  },
+  {
+    "route": "132",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 60
+  },
+  {
+    "route": "139",
+    "state": "deleted",
+    "period": "peak",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "139",
+    "state": "deleted",
+    "period": "midday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "139",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "139",
+    "state": "deleted",
+    "period": "saturday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "139",
+    "state": "deleted",
+    "period": "sunday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "140",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "140",
+    "state": "unchanged",
+    "period": "midday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "140",
+    "state": "unchanged",
+    "period": "night",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "140",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "140",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "143EX",
+    "state": "changed",
+    "period": "peak",
+    "current": 48,
+    "proposed": 60
+  },
+  {
+    "route": "143EX",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "143EX",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "143EX",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "143EX",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "148",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 60
+  },
+  {
+    "route": "148",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 60
+  },
+  {
+    "route": "148",
+    "state": "changed",
+    "period": "night",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "148",
+    "state": "changed",
+    "period": "saturday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "148",
+    "state": "changed",
+    "period": "sunday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "150",
+    "state": "changed",
+    "period": "peak",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "150",
+    "state": "changed",
+    "period": "midday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "150",
+    "state": "changed",
+    "period": "night",
+    "current": 45,
+    "proposed": 45
+  },
+  {
+    "route": "150",
+    "state": "changed",
+    "period": "saturday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "150",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "152",
+    "state": "deleted",
+    "period": "peak",
+    "current": 48,
+    "proposed": null
+  },
+  {
+    "route": "152",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "152",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "152",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "152",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "153",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "153",
+    "state": "unchanged",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "153",
+    "state": "unchanged",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "153",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "153",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "154",
+    "state": "deleted",
+    "period": "peak",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "154",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "154",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "154",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "154",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "156",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "156",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 60
+  },
+  {
+    "route": "156",
+    "state": "changed",
+    "period": "night",
+    "current": 60,
+    "proposed": 0
+  },
+  {
+    "route": "156",
+    "state": "changed",
+    "period": "saturday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "156",
+    "state": "changed",
+    "period": "sunday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "157",
+    "state": "changed",
+    "period": "peak",
+    "current": 80,
+    "proposed": 40
+  },
+  {
+    "route": "157",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "157",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "157",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "157",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "158",
+    "state": "deleted",
+    "period": "peak",
+    "current": 48,
+    "proposed": null
+  },
+  {
+    "route": "158",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "158",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "158",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "158",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "159",
+    "state": "deleted",
+    "period": "peak",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "159",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "159",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "159",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "159",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "161",
+    "state": "deleted",
+    "period": "peak",
+    "current": 48,
+    "proposed": null
+  },
+  {
+    "route": "161",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "161",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "161",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "161",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "164",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "164",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "164",
+    "state": "changed",
+    "period": "night",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "164",
+    "state": "changed",
+    "period": "saturday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "164",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "166",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "166",
+    "state": "unchanged",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "166",
+    "state": "unchanged",
+    "period": "night",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "166",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "166",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "167",
+    "state": "deleted",
+    "period": "peak",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "167",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "167",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "167",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "167",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "168",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 24
+  },
+  {
+    "route": "168",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "168",
+    "state": "changed",
+    "period": "night",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "168",
+    "state": "changed",
+    "period": "saturday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "168",
+    "state": "changed",
+    "period": "sunday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "169",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "169",
+    "state": "unchanged",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "169",
+    "state": "unchanged",
+    "period": "night",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "169",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "169",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "173",
+    "state": "deleted",
+    "period": "peak",
+    "current": 120,
+    "proposed": null
+  },
+  {
+    "route": "173",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "173",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "173",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "173",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "177",
+    "state": "changed",
+    "period": "peak",
+    "current": 26,
+    "proposed": 14
+  },
+  {
+    "route": "177",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "177",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "177",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "177",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "178",
+    "state": "deleted",
+    "period": "peak",
+    "current": 34,
+    "proposed": null
+  },
+  {
+    "route": "178",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "178",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "178",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "178",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "179",
+    "state": "deleted",
+    "period": "peak",
+    "current": 34,
+    "proposed": null
+  },
+  {
+    "route": "179",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "179",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "179",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "179",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "180",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "180",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "180",
+    "state": "changed",
+    "period": "night",
+    "current": 45,
+    "proposed": 45
+  },
+  {
+    "route": "180",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "180",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "181",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 22
+  },
+  {
+    "route": "181",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "181",
+    "state": "changed",
+    "period": "night",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "181",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "181",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "182",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 60
+  },
+  {
+    "route": "182",
+    "state": "changed",
+    "period": "midday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "182",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "182",
+    "state": "changed",
+    "period": "saturday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "182",
+    "state": "changed",
+    "period": "sunday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "183",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "183",
+    "state": "unchanged",
+    "period": "midday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "183",
+    "state": "unchanged",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "183",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "183",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "186",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 60
+  },
+  {
+    "route": "186",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "186",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "186",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "186",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "187",
+    "state": "changed",
+    "period": "peak",
+    "current": 45,
+    "proposed": 45
+  },
+  {
+    "route": "187",
+    "state": "changed",
+    "period": "midday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "187",
+    "state": "changed",
+    "period": "night",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "187",
+    "state": "changed",
+    "period": "saturday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "187",
+    "state": "changed",
+    "period": "sunday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "190",
+    "state": "deleted",
+    "period": "peak",
+    "current": 48,
+    "proposed": null
+  },
+  {
+    "route": "190",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "190",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "190",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "190",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "192",
+    "state": "deleted",
+    "period": "peak",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "192",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "192",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "192",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "192",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "193EX",
+    "state": "changed",
+    "period": "peak",
+    "current": 34,
+    "proposed": 40
+  },
+  {
+    "route": "193EX",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "193EX",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "193EX",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "193EX",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "197",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 34
+  },
+  {
+    "route": "197",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "197",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "197",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "197",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "200",
+    "state": "deleted",
+    "period": "peak",
+    "current": 32,
+    "proposed": null
+  },
+  {
+    "route": "200",
+    "state": "deleted",
+    "period": "midday",
+    "current": 35,
+    "proposed": null
+  },
+  {
+    "route": "200",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "200",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "200",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "201",
+    "state": "deleted",
+    "period": "peak",
+    "current": 240,
+    "proposed": null
+  },
+  {
+    "route": "201",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "201",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "201",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "201",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "202",
+    "state": "deleted",
+    "period": "peak",
+    "current": 48,
+    "proposed": null
+  },
+  {
+    "route": "202",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "202",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "202",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "202",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "203",
+    "state": "deleted",
+    "period": "peak",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "203",
+    "state": "deleted",
+    "period": "midday",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "203",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "203",
+    "state": "deleted",
+    "period": "saturday",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "203",
+    "state": "deleted",
+    "period": "sunday",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "204",
+    "state": "changed",
+    "period": "peak",
+    "current": null,
+    "proposed": 30
+  },
+  {
+    "route": "204",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 60
+  },
+  {
+    "route": "204",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "204",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 0
+  },
+  {
+    "route": "204",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 0
+  },
+  {
+    "route": "205EX",
+    "state": "deleted",
+    "period": "peak",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "205EX",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "205EX",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "205EX",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "205EX",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "208",
+    "state": "changed",
+    "period": "peak",
+    "current": 60,
+    "proposed": 120
+  },
+  {
+    "route": "208",
+    "state": "changed",
+    "period": "midday",
+    "current": 60,
+    "proposed": 120
+  },
+  {
+    "route": "208",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "208",
+    "state": "changed",
+    "period": "saturday",
+    "current": 60,
+    "proposed": 120
+  },
+  {
+    "route": "208",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "209",
+    "state": "deleted",
+    "period": "peak",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "209",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "209",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "209",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "209",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "210",
+    "state": "deleted",
+    "period": "peak",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "210",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "210",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "210",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "210",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "211EX",
+    "state": "deleted",
+    "period": "peak",
+    "current": 34,
+    "proposed": null
+  },
+  {
+    "route": "211EX",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "211EX",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "211EX",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "211EX",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "212",
+    "state": "changed",
+    "period": "peak",
+    "current": 10,
+    "proposed": 9
+  },
+  {
+    "route": "212",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "212",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "212",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "212",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "213",
+    "state": "deleted",
+    "period": "peak",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "213",
+    "state": "deleted",
+    "period": "midday",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "213",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "213",
+    "state": "deleted",
+    "period": "saturday",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "213",
+    "state": "deleted",
+    "period": "sunday",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "214",
+    "state": "changed",
+    "period": "peak",
+    "current": 18,
+    "proposed": 34
+  },
+  {
+    "route": "214",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "214",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "214",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "214",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "215",
+    "state": "deleted",
+    "period": "peak",
+    "current": 48,
+    "proposed": null
+  },
+  {
+    "route": "215",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "215",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "215",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "215",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "216",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 40,
+    "proposed": 40
+  },
+  {
+    "route": "216",
+    "state": "unchanged",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "216",
+    "state": "unchanged",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "216",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "216",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "217",
+    "state": "deleted",
+    "period": "peak",
+    "current": 80,
+    "proposed": null
+  },
+  {
+    "route": "217",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "217",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "217",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "217",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "218",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 16,
+    "proposed": 16
+  },
+  {
+    "route": "218",
+    "state": "unchanged",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "218",
+    "state": "unchanged",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "218",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "218",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "219",
+    "state": "unchanged",
+    "period": "peak",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "219",
+    "state": "unchanged",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "219",
+    "state": "unchanged",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "219",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "219",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "221",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "221",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "221",
+    "state": "changed",
+    "period": "night",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "221",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "221",
+    "state": "changed",
+    "period": "sunday",
+    "current": 60,
+    "proposed": 30
+  },
+  {
+    "route": "224",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 120,
+    "proposed": 120
+  },
+  {
+    "route": "224",
+    "state": "unchanged",
+    "period": "midday",
+    "current": 150,
+    "proposed": 150
+  },
+  {
+    "route": "224",
+    "state": "unchanged",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "224",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "224",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "226",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "226",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "226",
+    "state": "changed",
+    "period": "night",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "226",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "226",
+    "state": "changed",
+    "period": "sunday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "232",
+    "state": "changed",
+    "period": "peak",
+    "current": 26,
+    "proposed": 60
+  },
+  {
+    "route": "232",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "232",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "232",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "232",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "234",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "234",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 60
+  },
+  {
+    "route": "234",
+    "state": "changed",
+    "period": "night",
+    "current": 60,
+    "proposed": 0
+  },
+  {
+    "route": "234",
+    "state": "changed",
+    "period": "saturday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "234",
+    "state": "changed",
+    "period": "sunday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "235",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 15
+  },
+  {
+    "route": "235",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "235",
+    "state": "changed",
+    "period": "night",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "235",
+    "state": "changed",
+    "period": "saturday",
+    "current": 60,
+    "proposed": 30
+  },
+  {
+    "route": "235",
+    "state": "changed",
+    "period": "sunday",
+    "current": 60,
+    "proposed": 30
+  },
+  {
+    "route": "236",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "236",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 60
+  },
+  {
+    "route": "236",
+    "state": "changed",
+    "period": "night",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "236",
+    "state": "changed",
+    "period": "saturday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "236",
+    "state": "changed",
+    "period": "sunday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "237",
+    "state": "deleted",
+    "period": "peak",
+    "current": 120,
+    "proposed": null
+  },
+  {
+    "route": "237",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "237",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "237",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "237",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "238",
+    "state": "deleted",
+    "period": "peak",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "238",
+    "state": "deleted",
+    "period": "midday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "238",
+    "state": "deleted",
+    "period": "night",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "238",
+    "state": "deleted",
+    "period": "saturday",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "238",
+    "state": "deleted",
+    "period": "sunday",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "240",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "240",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "240",
+    "state": "changed",
+    "period": "night",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "240",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "240",
+    "state": "changed",
+    "period": "sunday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "241",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "241",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 60
+  },
+  {
+    "route": "241",
+    "state": "changed",
+    "period": "night",
+    "current": 60,
+    "proposed": 0
+  },
+  {
+    "route": "241",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 60
+  },
+  {
+    "route": "241",
+    "state": "changed",
+    "period": "sunday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "242",
+    "state": "deleted",
+    "period": "peak",
+    "current": 40,
+    "proposed": null
+  },
+  {
+    "route": "242",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "242",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "242",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "242",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "243",
+    "state": "deleted",
+    "period": "peak",
+    "current": 120,
+    "proposed": null
+  },
+  {
+    "route": "243",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "243",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "243",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "243",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "244EX",
+    "state": "deleted",
+    "period": "peak",
+    "current": 48,
+    "proposed": null
+  },
+  {
+    "route": "244EX",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "244EX",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "244EX",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "244EX",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "245",
+    "state": "changed",
+    "period": "peak",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "245",
+    "state": "changed",
+    "period": "midday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "245",
+    "state": "changed",
+    "period": "night",
+    "current": 45,
+    "proposed": 45
+  },
+  {
+    "route": "245",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "245",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "246",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "246",
+    "state": "unchanged",
+    "period": "midday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "246",
+    "state": "unchanged",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "246",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "246",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "248",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "248",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "248",
+    "state": "changed",
+    "period": "night",
+    "current": 30,
+    "proposed": 60
+  },
+  {
+    "route": "248",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "248",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "249",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 60
+  },
+  {
+    "route": "249",
+    "state": "changed",
+    "period": "midday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "249",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "249",
+    "state": "changed",
+    "period": "saturday",
+    "current": 45,
+    "proposed": 45
+  },
+  {
+    "route": "249",
+    "state": "changed",
+    "period": "sunday",
+    "current": 45,
+    "proposed": 45
+  },
+  {
+    "route": "250",
+    "state": "deleted",
+    "period": "peak",
+    "current": 40,
+    "proposed": null
+  },
+  {
+    "route": "250",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "250",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "250",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "250",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "252",
+    "state": "changed",
+    "period": "peak",
+    "current": 34,
+    "proposed": 40
+  },
+  {
+    "route": "252",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "252",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "252",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "252",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "255",
+    "state": "changed",
+    "period": "peak",
+    "current": 10,
+    "proposed": 10
+  },
+  {
+    "route": "255",
+    "state": "changed",
+    "period": "midday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "255",
+    "state": "changed",
+    "period": "night",
+    "current": 45,
+    "proposed": 45
+  },
+  {
+    "route": "255",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "255",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "257",
+    "state": "changed",
+    "period": "peak",
+    "current": 40,
+    "proposed": 48
+  },
+  {
+    "route": "257",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "257",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "257",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "257",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "260",
+    "state": "deleted",
+    "period": "peak",
+    "current": 80,
+    "proposed": null
+  },
+  {
+    "route": "260",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "260",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "260",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "260",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "265",
+    "state": "deleted",
+    "period": "peak",
+    "current": 24,
+    "proposed": null
+  },
+  {
+    "route": "265",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "265",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "265",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "265",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "268",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "268",
+    "state": "unchanged",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "268",
+    "state": "unchanged",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "268",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "268",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "269",
+    "state": "changed",
+    "period": "peak",
+    "current": 20,
+    "proposed": 34
+  },
+  {
+    "route": "269",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "269",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "269",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "269",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "271",
+    "state": "changed",
+    "period": "peak",
+    "current": 10,
+    "proposed": 10
+  },
+  {
+    "route": "271",
+    "state": "changed",
+    "period": "midday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "271",
+    "state": "changed",
+    "period": "night",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "271",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "271",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "277",
+    "state": "deleted",
+    "period": "peak",
+    "current": 40,
+    "proposed": null
+  },
+  {
+    "route": "277",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "277",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "277",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "277",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "280",
+    "state": "unchanged",
+    "period": "peak",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "280",
+    "state": "unchanged",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "280",
+    "state": "unchanged",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "280",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "280",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "301",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 16,
+    "proposed": 16
+  },
+  {
+    "route": "301",
+    "state": "unchanged",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "301",
+    "state": "unchanged",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "301",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "301",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "303EX",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 21,
+    "proposed": 21
+  },
+  {
+    "route": "303EX",
+    "state": "unchanged",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "303EX",
+    "state": "unchanged",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "303EX",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "303EX",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "304",
+    "state": "deleted",
+    "period": "peak",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "304",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "304",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "304",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "304",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "306EX",
+    "state": "deleted",
+    "period": "peak",
+    "current": 48,
+    "proposed": null
+  },
+  {
+    "route": "306EX",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "306EX",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "306EX",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "306EX",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "308",
+    "state": "deleted",
+    "period": "peak",
+    "current": 80,
+    "proposed": null
+  },
+  {
+    "route": "308",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "308",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "308",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "308",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "309EX",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "309EX",
+    "state": "unchanged",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "309EX",
+    "state": "unchanged",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "309EX",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "309EX",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "311",
+    "state": "changed",
+    "period": "peak",
+    "current": 21,
+    "proposed": 24
+  },
+  {
+    "route": "311",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "311",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "311",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "311",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "312EX",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 14,
+    "proposed": 14
+  },
+  {
+    "route": "312EX",
+    "state": "unchanged",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "312EX",
+    "state": "unchanged",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "312EX",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "312EX",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "316",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 34,
+    "proposed": 34
+  },
+  {
+    "route": "316",
+    "state": "unchanged",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "316",
+    "state": "unchanged",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "316",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "316",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "330",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "330",
+    "state": "unchanged",
+    "period": "midday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "330",
+    "state": "unchanged",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "330",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "330",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "331",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "331",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "331",
+    "state": "changed",
+    "period": "night",
+    "current": 60,
+    "proposed": 0
+  },
+  {
+    "route": "331",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "331",
+    "state": "changed",
+    "period": "sunday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "342",
+    "state": "changed",
+    "period": "peak",
+    "current": 60,
+    "proposed": 48
+  },
+  {
+    "route": "342",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "342",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "342",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "342",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "345",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "345",
+    "state": "unchanged",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "345",
+    "state": "unchanged",
+    "period": "night",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "345",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "345",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "346",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "346",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "346",
+    "state": "changed",
+    "period": "night",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "346",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "346",
+    "state": "changed",
+    "period": "sunday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "347",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "347",
+    "state": "unchanged",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "347",
+    "state": "unchanged",
+    "period": "night",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "347",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "347",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "348",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "348",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "348",
+    "state": "changed",
+    "period": "night",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "348",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "348",
+    "state": "changed",
+    "period": "sunday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "355EX",
+    "state": "changed",
+    "period": "peak",
+    "current": 26,
+    "proposed": 18
+  },
+  {
+    "route": "355EX",
+    "state": "changed",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "355EX",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "355EX",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "355EX",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "358EX",
+    "state": "changed",
+    "period": "peak",
+    "current": 7,
+    "proposed": 8
+  },
+  {
+    "route": "358EX",
+    "state": "changed",
+    "period": "midday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "358EX",
+    "state": "changed",
+    "period": "night",
+    "current": 25,
+    "proposed": 25
+  },
+  {
+    "route": "358EX",
+    "state": "changed",
+    "period": "saturday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "358EX",
+    "state": "changed",
+    "period": "sunday",
+    "current": 15,
+    "proposed": 20
+  },
+  {
+    "route": "372EX",
+    "state": "changed",
+    "period": "peak",
+    "current": 19,
+    "proposed": 18
+  },
+  {
+    "route": "372EX",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "372EX",
+    "state": "changed",
+    "period": "night",
+    "current": 60,
+    "proposed": 45
+  },
+  {
+    "route": "372EX",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": 30
+  },
+  {
+    "route": "372EX",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": 30
+  },
+  {
+    "route": "373EX",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 26,
+    "proposed": 26
+  },
+  {
+    "route": "373EX",
+    "state": "unchanged",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "373EX",
+    "state": "unchanged",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "373EX",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "373EX",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "601EX",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 40,
+    "proposed": 40
+  },
+  {
+    "route": "601EX",
+    "state": "unchanged",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "601EX",
+    "state": "unchanged",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "601EX",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "601EX",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "671",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 10,
+    "proposed": 10
+  },
+  {
+    "route": "671",
+    "state": "unchanged",
+    "period": "midday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "671",
+    "state": "unchanged",
+    "period": "night",
+    "current": 22,
+    "proposed": 22
+  },
+  {
+    "route": "671",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "671",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "672",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 10,
+    "proposed": 10
+  },
+  {
+    "route": "672",
+    "state": "unchanged",
+    "period": "midday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "672",
+    "state": "unchanged",
+    "period": "night",
+    "current": 22,
+    "proposed": 22
+  },
+  {
+    "route": "672",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "672",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "673",
+    "state": "changed",
+    "period": "peak",
+    "current": 10,
+    "proposed": 10
+  },
+  {
+    "route": "673",
+    "state": "changed",
+    "period": "midday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "673",
+    "state": "changed",
+    "period": "night",
+    "current": 22,
+    "proposed": 22
+  },
+  {
+    "route": "673",
+    "state": "changed",
+    "period": "saturday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "673",
+    "state": "changed",
+    "period": "sunday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "674",
+    "state": "changed",
+    "period": "peak",
+    "current": 10,
+    "proposed": 10
+  },
+  {
+    "route": "674",
+    "state": "changed",
+    "period": "midday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "674",
+    "state": "changed",
+    "period": "night",
+    "current": 22,
+    "proposed": 22
+  },
+  {
+    "route": "674",
+    "state": "changed",
+    "period": "saturday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "674",
+    "state": "changed",
+    "period": "sunday",
+    "current": 15,
+    "proposed": 15
+  },
+  {
+    "route": "901DART",
+    "state": "deleted",
+    "period": "peak",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "901DART",
+    "state": "deleted",
+    "period": "midday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "901DART",
+    "state": "deleted",
+    "period": "night",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "901DART",
+    "state": "deleted",
+    "period": "saturday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "901DART",
+    "state": "deleted",
+    "period": "sunday",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "903DART",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 30
+  },
+  {
+    "route": "903DART",
+    "state": "changed",
+    "period": "midday",
+    "current": 30,
+    "proposed": 60
+  },
+  {
+    "route": "903DART",
+    "state": "changed",
+    "period": "night",
+    "current": 60,
+    "proposed": 0
+  },
+  {
+    "route": "903DART",
+    "state": "changed",
+    "period": "saturday",
+    "current": 30,
+    "proposed": 60
+  },
+  {
+    "route": "903DART",
+    "state": "changed",
+    "period": "sunday",
+    "current": 30,
+    "proposed": 60
+  },
+  {
+    "route": "906DART",
+    "state": "unchanged",
+    "period": "peak",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "906DART",
+    "state": "unchanged",
+    "period": "midday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "906DART",
+    "state": "unchanged",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "906DART",
+    "state": "unchanged",
+    "period": "saturday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "906DART",
+    "state": "unchanged",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "907DART",
+    "state": "changed",
+    "period": "peak",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "907DART",
+    "state": "changed",
+    "period": "midday",
+    "current": 90,
+    "proposed": 90
+  },
+  {
+    "route": "907DART",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": 0
+  },
+  {
+    "route": "907DART",
+    "state": "changed",
+    "period": "saturday",
+    "current": null,
+    "proposed": 0
+  },
+  {
+    "route": "907DART",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": 0
+  },
+  {
+    "route": "908DART",
+    "state": "deleted",
+    "period": "peak",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "908DART",
+    "state": "deleted",
+    "period": "midday",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "908DART",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "908DART",
+    "state": "deleted",
+    "period": "saturday",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "908DART",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "909DART",
+    "state": "deleted",
+    "period": "peak",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "909DART",
+    "state": "deleted",
+    "period": "midday",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "909DART",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "909DART",
+    "state": "deleted",
+    "period": "saturday",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "909DART",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "910DART",
+    "state": "deleted",
+    "period": "peak",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "910DART",
+    "state": "deleted",
+    "period": "midday",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "910DART",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "910DART",
+    "state": "deleted",
+    "period": "saturday",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "910DART",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "913DART",
+    "state": "deleted",
+    "period": "peak",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "913DART",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "913DART",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "913DART",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "913DART",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "914DART",
+    "state": "changed",
+    "period": "peak",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "914DART",
+    "state": "changed",
+    "period": "midday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "914DART",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "914DART",
+    "state": "changed",
+    "period": "saturday",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "914DART",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "915DART",
+    "state": "changed",
+    "period": "peak",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "915DART",
+    "state": "changed",
+    "period": "midday",
+    "current": 90,
+    "proposed": 90
+  },
+  {
+    "route": "915DART",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "915DART",
+    "state": "changed",
+    "period": "saturday",
+    "current": 90,
+    "proposed": 90
+  },
+  {
+    "route": "915DART",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "916DART",
+    "state": "deleted",
+    "period": "peak",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "916DART",
+    "state": "deleted",
+    "period": "midday",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "916DART",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "916DART",
+    "state": "deleted",
+    "period": "saturday",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "916DART",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "917DART",
+    "state": "changed",
+    "period": "peak",
+    "current": 60,
+    "proposed": 60
+  },
+  {
+    "route": "917DART",
+    "state": "changed",
+    "period": "midday",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "917DART",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "917DART",
+    "state": "changed",
+    "period": "saturday",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "917DART",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "919DART",
+    "state": "deleted",
+    "period": "peak",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "919DART",
+    "state": "deleted",
+    "period": "midday",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "919DART",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "919DART",
+    "state": "deleted",
+    "period": "saturday",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "919DART",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "927DART",
+    "state": "deleted",
+    "period": "peak",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "927DART",
+    "state": "deleted",
+    "period": "midday",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "927DART",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "927DART",
+    "state": "deleted",
+    "period": "saturday",
+    "current": 60,
+    "proposed": null
+  },
+  {
+    "route": "927DART",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "930DART",
+    "state": "deleted",
+    "period": "peak",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "930DART",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "930DART",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "930DART",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "930DART",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "931DART",
+    "state": "changed",
+    "period": "peak",
+    "current": 30,
+    "proposed": 60
+  },
+  {
+    "route": "931DART",
+    "state": "changed",
+    "period": "midday",
+    "current": 60,
+    "proposed": 0
+  },
+  {
+    "route": "931DART",
+    "state": "changed",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "931DART",
+    "state": "changed",
+    "period": "saturday",
+    "current": 60,
+    "proposed": 0
+  },
+  {
+    "route": "931DART",
+    "state": "changed",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "935DART",
+    "state": "deleted",
+    "period": "peak",
+    "current": 30,
+    "proposed": null
+  },
+  {
+    "route": "935DART",
+    "state": "deleted",
+    "period": "midday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "935DART",
+    "state": "deleted",
+    "period": "night",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "935DART",
+    "state": "deleted",
+    "period": "saturday",
+    "current": null,
+    "proposed": null
+  },
+  {
+    "route": "935DART",
+    "state": "deleted",
+    "period": "sunday",
+    "current": null,
+    "proposed": null
+  }
+]

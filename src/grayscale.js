@@ -34,8 +34,12 @@ L.TileLayer.Grayscale = L.TileLayer.extend({
 			ctx.drawImage(this, 0, 0);
 			var imgd = ctx.getImageData(0, 0, this._layer.options.tileSize, this._layer.options.tileSize);
 			var pix = imgd.data;
+      // Desaturate a bit.
 			for (var i = 0, n = pix.length; i < n; i += 4) {
-				pix[i] = pix[i + 1] = pix[i + 2] = (3 * pix[i] + 4 * pix[i + 1] + pix[i + 2]) / 8;
+        var gs = (3 * pix[i] + 4 * pix[i + 1] + pix[i + 2]);
+        pix[i] = (3 * pix[i] + gs) / 11;
+        pix[i + 1] = (4 * pix[i + 1] + gs) / 12;
+        pix[i + 2] = (pix[i + 2] + gs) / 9;
 			}
 			ctx.putImageData(imgd, 0, 0);
 			this.removeAttribute("crossorigin");

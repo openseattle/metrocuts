@@ -18,21 +18,21 @@
     "state": "changed",
     "period": "night",
     "current": 45,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "1",
     "state": "changed",
     "period": "saturday",
     "current": 30,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "1",
     "state": "changed",
     "period": "sunday",
     "current": 30,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "2",
@@ -319,14 +319,14 @@
     "state": "changed",
     "period": "peak",
     "current": 17,
-    "proposed": 0
+    "proposed": 30
   },
   {
     "route": "9EX",
     "state": "changed",
     "period": "midday",
     "current": 30,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "9EX",
@@ -424,35 +424,35 @@
     "state": "changed",
     "period": "peak",
     "current": 10,
-    "proposed": 0
+    "proposed": 60
   },
   {
     "route": "12",
     "state": "changed",
     "period": "midday",
     "current": 15,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "12",
     "state": "changed",
     "period": "night",
     "current": 45,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "12",
     "state": "changed",
     "period": "saturday",
     "current": 15,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "12",
     "state": "changed",
     "period": "sunday",
     "current": 30,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "13",
@@ -508,21 +508,21 @@
     "state": "changed",
     "period": "night",
     "current": 45,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "14",
     "state": "changed",
     "period": "saturday",
     "current": 30,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "14",
     "state": "changed",
     "period": "sunday",
     "current": 30,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "15EX",
@@ -816,28 +816,28 @@
     "state": "changed",
     "period": "midday",
     "current": 30,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "24",
     "state": "changed",
     "period": "night",
     "current": 30,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "24",
     "state": "changed",
     "period": "saturday",
     "current": 30,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "24",
     "state": "changed",
     "period": "sunday",
     "current": 30,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "25",
@@ -2055,14 +2055,14 @@
     "state": "changed",
     "period": "saturday",
     "current": 30,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "71",
     "state": "changed",
     "period": "sunday",
     "current": 30,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "72",
@@ -2398,7 +2398,7 @@
     "state": "changed",
     "period": "night",
     "current": 15,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "98",
@@ -3126,28 +3126,28 @@
     "state": "changed",
     "period": "midday",
     "current": 30,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "125",
     "state": "changed",
     "period": "night",
     "current": 45,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "125",
     "state": "changed",
     "period": "saturday",
     "current": 45,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "125",
     "state": "changed",
     "period": "sunday",
     "current": null,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "128",
@@ -3553,7 +3553,7 @@
     "state": "changed",
     "period": "night",
     "current": 60,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "156",
@@ -4540,14 +4540,14 @@
     "state": "changed",
     "period": "saturday",
     "current": 30,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "204",
     "state": "changed",
     "period": "sunday",
     "current": 30,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "205EX",
@@ -5163,7 +5163,7 @@
     "state": "changed",
     "period": "night",
     "current": 60,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "234",
@@ -5373,7 +5373,7 @@
     "state": "changed",
     "period": "night",
     "current": 60,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "241",
@@ -6388,7 +6388,7 @@
     "state": "changed",
     "period": "night",
     "current": 60,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "331",
@@ -6948,7 +6948,7 @@
     "state": "changed",
     "period": "night",
     "current": 60,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "903DART",
@@ -7018,21 +7018,21 @@
     "state": "changed",
     "period": "night",
     "current": null,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "907DART",
     "state": "changed",
     "period": "saturday",
     "current": null,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "907DART",
     "state": "changed",
     "period": "sunday",
     "current": null,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "908DART",
@@ -7431,7 +7431,7 @@
     "state": "changed",
     "period": "midday",
     "current": 60,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "931DART",
@@ -7445,7 +7445,7 @@
     "state": "changed",
     "period": "saturday",
     "current": 60,
-    "proposed": 0
+    "proposed": null
   },
   {
     "route": "931DART",

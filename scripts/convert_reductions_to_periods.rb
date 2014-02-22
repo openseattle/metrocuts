@@ -1,7 +1,7 @@
 require 'json'
 
 def get_period_from_range(input)
-	if input.nil?
+	if input.nil? || input == "-"
 		return nil
 	end
 
@@ -13,7 +13,7 @@ def get_period_from_range(input)
 	end
 end
 
-routes = JSON.parse(IO.read("service-reduction.json"), opts = {symbolize_names: true})
+routes = JSON.parse(IO.read(ARGV[0]), opts = {symbolize_names: true})
 periods = []
 routes.each do |route|
 	period_pairs = [

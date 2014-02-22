@@ -28,7 +28,8 @@ $(function() {
                         0.65: "rgb(0,255,0)",
                         0.95: "yellow",
                         1.0: "rgb(255,0,0)"
-                  }
+                    }
+
     });
 
     $.getJSON('data/heatmap.json', function(data) {

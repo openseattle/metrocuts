@@ -23,13 +23,12 @@ $(function() {
         radius: { value: 100, absolute: true },
         opacity: 0.9,
         gradient: {
-                        0.45: "rgb(0,0,255)",
-                        0.55: "rgb(0,255,255)",
-                        0.65: "rgb(0,255,0)",
-                        0.95: "yellow",
-                        1.0: "rgb(255,0,0)"
-                    }
-
+          0.0: "rgb(0,255,0)",
+          0.45: "rgba(0,255,0, 0)",
+          0.50: "rgba(255,255,0,0)",
+          0.55: "rgb(255,255,0)",
+          1.0: "rgb(255,0,0)"
+        }
     });
 
     $.getJSON('data/heatmap.json', function(data) {

@@ -8,6 +8,16 @@ $(function() {
         zoom: 13,
         layers: [osm]
     });
+    
+    var popup;
+    
+    map.on('click', function(e) {
+      if (!popup) {
+        popup = L.popup()
+      }
+      popup.setLatLng(e.latlng);
+      popup.setContent("hi!" + e.latlng).openOn(map);
+    }); 
 
     var heatmapLayer = L.TileLayer.heatMap({
         radius: { value: 100, absolute: true },

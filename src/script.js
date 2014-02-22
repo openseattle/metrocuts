@@ -36,8 +36,12 @@ $(function() {
         var heatmapData = [];
         $.each(data, function(ind, pt) {
           // pt.value = pt.delta;
-          console.log(pt);
-          heatmapData.push(pt);
+          var stop = {};
+          stop.lat = pt.lat;
+          stop.lon = pt.lon;
+          stop.deltaT = (pt.proposed - pt.current) / pt.current;
+          console.log(stop);
+          heatmapData.push(stop);
         });
         heatmapLayer.setData(heatmapData);
         heatmapLayer.addTo(map);

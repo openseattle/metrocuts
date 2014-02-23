@@ -28,10 +28,10 @@ $(function() {
     });
     var blackmap = L.TileLayer.heatMap({
         radius: { value: 100, absolute: true },
-        opacity: 1.0,
+        opacity: 0.4,
         gradient: {
-          0.0: "rgba(0,0,0,0.2)",
-          1.0: "rgba(0,0,0,0.4)"
+          0.0: "rgb(0,0,0)",
+          1.0: "rgb(0,0,0)"
         }
     });
 

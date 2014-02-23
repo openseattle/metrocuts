@@ -76,9 +76,12 @@ $(function() {
       if (!popup) {
         popup = L.popup()
       }
-      popup.setLatLng(e.latlng);
+      
 
       var nearestStop = nearestStopFromLatLon(e.latlng.lat, e.latlng.lng);
+      e.latlng.lat = nearestStop.lat;
+      e.latlng.lng = nearestStop.lon;
+      popup.setLatLng(e.latlng);
 
       popup.setContent("Current Routes:" + nearestStop.current_routes + ", Proposed Routes:" + nearestStop.proposed_routes).openOn(map);
     });

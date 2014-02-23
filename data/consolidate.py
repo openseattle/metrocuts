@@ -40,6 +40,13 @@ class Stop(dict):
 class Route(dict):
     """Data for one bus route."""
 
+    def __init__(self, *args, **kargs):
+        """Clean up route name if necessary."""
+        super(Route, self).__init__(*args, **kargs)
+        if self.get('route') is not None:
+            if self['route'].endswith('DART'):
+                self['route'] = self['route'][:-4]
+
     @property
     def name(self):
         return self['route']

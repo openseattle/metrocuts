@@ -9,16 +9,34 @@ $(function() {
 
     // maxDistance: km
 	function nearestStopFromLatLon(lat, lon) {
-		var minDistance = 0;
+		var minDistance = 10000;
 		var result;
 
-		$.each(heatmapData, function(ind, pt) {
-			distance = getLatLonDistanceInKm(lat, lon, pt.lat, pt.lon)
+		$.each(dheatmapData, function(ind, pt) {
+			var distance = getLatLonDistanceInKm(lat, lon, pt.lat, pt.lon)
 			if (distance <= minDistance) {
 				result = pt;
+				minDistance = distance;
 			}
 		});
 
+		$.each(gheatmapData, function(ind, pt) {
+			var distance = getLatLonDistanceInKm(lat, lon, pt.lat, pt.lon)
+			if (distance <= minDistance) {
+				result = pt;
+				minDistance = distance;
+			}
+		});
+
+		$.each(bdata, function(ind, pt) {
+			var distance = getLatLonDistanceInKm(lat, lon, pt.lat, pt.lon)
+			if (distance <= minDistance) {
+				result = pt;
+				minDistance = distance;
+			}
+		});
+
+		console.log(result);
 		return result;
 	}
 
@@ -59,7 +77,10 @@ $(function() {
         popup = L.popup()
       }
       popup.setLatLng(e.latlng);
-      popup.setContent("hi!" + e.latlng).openOn(map);
+
+      var nearestStop = nearestStopFromLatLon(e.latlng.lat, e.latlng.lng);
+
+      popup.setContent("hi!" + nearestStop.current_routes + " " + nearestStop.proposed_routes).openOn(map);
     });
 
     var delayHeatmap = L.TileLayer.heatMap({
@@ -91,9 +112,6 @@ $(function() {
         var max = 5;
         var min = -2;
 
-        var dheatmapData = [];
-        var gheatmapData = [];
-        var bdata = [];
         $.each(data, function(ind, pt) {
           // pt.value = pt.delta;
           var stop = {};
@@ -103,6 +121,8 @@ $(function() {
 //          var delta = 1 + (pt.proposed - pt.current) / pt.current;
 //          stop.value = (delta - min)/(max - min);
           stop.value = pt.delta || 0;
+          stop.current_routes = pt.current_routes;
+          stop.proposed_routes = pt.proposed_routes;
 
           if (pt.delta ===null) {
             stop.value = 1;

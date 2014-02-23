@@ -91,10 +91,30 @@ class Stops(dict):
                 summary['current'].append(route_summary['current'])
                 summary['proposed'].append(route_summary['proposed'])
                 summary['delta'].append(route_summary['delta'])
+        summary['current_routes'] = self._current_routes(id, routes)
+        summary['proposed_routes'] = self._proposed_routes(id, routes)
         summary['current'] = _mean(summary['current'])
         summary['proposed'] = _mean(summary['proposed'])
         summary['delta'] = _mean(summary['delta'])
         return summary
+
+    def _current_routes(self, id, routes):
+        """Find current routes for the given stop."""
+        current_routes = set()
+        for stop in self[id]:
+            for route in routes.get(stop.route, []):
+                if route.current is not None:
+                    current_routes.add(stop.route)
+        return sorted(current_routes)
+
+    def _proposed_routes(self, id, routes):
+        """Find current and proposed routes."""
+        proposed_routes = set()
+        for stop in self[id]:
+            for route in routes.get(stop.route, []):
+                if route.proposed is not None:
+                    proposed_routes.add(stop.route)
+        return sorted(proposed_routes)
 
 class Routes(dict):
     """A collection mapping each route name to a list of Route objects."""
@@ -149,8 +169,12 @@ def consolidate(stopsfile, routesfile, outputfile):
     for dictionary in json.loads(_read(routesfile)):
         routes.add(dictionary)
     # export consolidated output
-    summaries = [stops.summarize(id, routes) for id in stops]
-    json.dump(summaries, open(outputfile, 'w'), indent=2, separators=(',', ':'))
+    summaries = []
+    for id in stops:
+        summary = stops.summarize(id, routes)
+        if summary['current_routes']:
+            summaries.append(summary)
+    json.dump(summaries, open(outputfile, 'w'), indent=2, separators=(',', ': '))
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser("Consolidate routes and stops JSON files")

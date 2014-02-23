@@ -80,7 +80,7 @@ $(function() {
 
       var nearestStop = nearestStopFromLatLon(e.latlng.lat, e.latlng.lng);
 
-      popup.setContent("hi!" + nearestStop.current_routes + " " + nearestStop.proposed_routes).openOn(map);
+      popup.setContent("Current Routes:" + nearestStop.current_routes + ", Proposed Routes:" + nearestStop.proposed_routes).openOn(map);
     });
 
     var delayHeatmap = L.TileLayer.heatMap({

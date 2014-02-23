@@ -9,14 +9,6 @@ $(function() {
     }).addTo(map);
     
     var popup;
-    
-    map.on('click', function(e) {
-      if (!popup) {
-        popup = L.popup()
-      }
-      popup.setLatLng(e.latlng);
-      popup.setContent("hi!" + e.latlng).openOn(map);
-    }); 
 
     var delayHeatmap = L.TileLayer.heatMap({
         radius: { value: 100, absolute: true },
@@ -35,21 +27,21 @@ $(function() {
         }
     });
 
-    $.getJSON('data/stops_data.json', function(data) {
-        var max = 2;
-        var min = -1;
+    $.getJSON('data/heatmap.json', function(data) {
+        var max = 5;
+        var min = -2;
 
         var dheatmapData = [];
         var gheatmapData = [];
         $.each(data, function(ind, pt) {
           // pt.value = pt.delta;
-          
           var stop = {};
-          stop.lat = pt.Lat;
-          stop.lon = pt.Long;
+          
+          stop.lat = pt.lat;
+          stop.lon = pt.lon;
 //          var delta = 1 + (pt.proposed - pt.current) / pt.current;
 //          stop.value = (delta - min)/(max - min);
-          stop.value = 2 * Math.random() - 1;
+          stop.value = pt.delta || 0;
           
           if (stop.value > 0) {
             dheatmapData.push(stop);            

@@ -11,7 +11,7 @@ $(function() {
     var popup;
 
     var delayHeatmap = L.TileLayer.heatMap({
-        radius: { value: 100, absolute: true },
+        radius: { value: 10, absolute: false },
         opacity: 1.0,
         gradient: {
           0.0: "rgba(255,0,0,0.5)",
@@ -19,7 +19,7 @@ $(function() {
         }
     });
     var betterHeatmap = L.TileLayer.heatMap({
-        radius: { value: 100, absolute: true },
+        radius: { value: 10, absolute: false },
         opacity: 1.0,
         gradient: {
           0.0: "rgba(0,255,0,0.5)",
@@ -27,7 +27,7 @@ $(function() {
         }
     });
     var blackmap = L.TileLayer.heatMap({
-        radius: { value: 100, absolute: true },
+        radius: { value: 10, absolute: false },
         opacity: 0.4,
         gradient: {
           0.0: "rgb(0,0,0)",

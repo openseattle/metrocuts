@@ -83,7 +83,7 @@ $(function() {
       e.latlng.lng = nearestStop.lon;
       popup.setLatLng(e.latlng);
 
-      popup.setContent("Current Routes:" + nearestStop.current_routes + ", Proposed Routes:" + nearestStop.proposed_routes).openOn(map);
+      popup.setContent("<b>Current Routes:</b> " + (nearestStop.current_routes.length ? nearestStop.current_routes.join(", ") : "&mdash;") + "<br><b>Proposed Routes:</b> " + (nearestStop.proposed_routes.length ? nearestStop.proposed_routes.join(", ") : "&mdash;")).openOn(map);
     });
 
     var delayHeatmap = L.TileLayer.heatMap({
